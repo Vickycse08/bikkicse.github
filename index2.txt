@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+ 
+
+<html>
+ 
+
+<head>
+
+    <title>
+
+        Simple Motivation
+    </title>
+
+</head>
+ 
+
+<body>
+
+    <nav class="navbar background">
+
+        <ul class="nav-list">
+
+            <div class="logo">
+
+                <img src="https://lh3.googleusercontent.com/qPeAjJHg4t36GOUCSuoJXc0BpKaE80KpXhc0De9mBw0erzpNyCSi7Xq0_sLAocrFn7rGspK6sk93jc-38Er0XGL7G9UpX4_Z6hL0pvp6sQiRusrOM89vhzdoDETkL1b50RVOTxbUS3IV3evqCzAnMULZSLFov_LEvGEMuv3-phmR-EB05NU-pIDBHQmOI2UJNftjG9V-KznCfQzimXGYPdf6UdwqOY74EWO869N4Ya55UTpkpAiKPGVibSohVmfXmCwNslo3VeQDRqk_ZMf-bHNNtMPI18mWtv42dYBnEj7GpE626lnqOPwibZV-FP78H_oU8GkPrsr5B36v-1uts9CqwuyYUHOKC9X2dfoJi9wu4hKvgaTVYXyPfRMXSddNbYk8heAiC3tOrPcZaTWEJgrMDPwluNmrPqYAcLTJYDLczE849lh6vSQz0LlD_M1v8pSRFcxkijIUqUj8ZWlah5GzEMtLmp4kz2IrG_uYrqo8yQ6Tt0dVuRP6JJI3ZUlC1YYJ5DLttQIthEgRwr0KxAJ2yZ0dOlA4vlxjVX4n97WbjHpbByxPG2RCp9OdNIj2YSuY_1PUm-58hWhJqnsaIKFdS2i_A2cInRATvZ_qqi91HQG3sbiYOrlo-abm4VTe7Fgdfl6xEtPZkdChD6LxAGsr2-lqpJGWTEH3ajIwXWhZLjOf4KISOfgJoLPusim1-GcBt3Msw-sRoo6DE1v0RMRtZdNRAZi6dGbN1Go8S2IKv8aUz3sEZfv2v5fhoW9eY-EYYGCcmUVzuSMcdEDHYWBQQmEGr-lFN7_vau-gcXqADLifkKK8JDrP67pFo8Zx9Lg09AMSTwuMJzN957PRbJs2oL2ERM2T6X_to1V42JDLWaPxY_N6GBJOSYtVt3a2hMZ1uw0EqB0rPMcGqRNu99ud7SCMSbLronv6kEXUzAWG=w287-h297-no?authuser=0"wedth="200" height="140">
+
+            </div>
+             <li><a href="#web">Vicky</a></li>
+
+            <li><a href="#web">My profile</a></li>
+
+            <li><a href="#program">My hobbise</a></li>
+
+            <li><a href="#course">My dream</a></li>
+
+        </ul>
+ 
+
+        <div class="rightNav">
+
+            <input type="text" name="search" id="search">
+
+            <button class="btn btn-sm">Search</button>
+
+        </div>
+
+    </nav>
+ 
+
+    <section class="firstsection">
+
+        <div class="box-main">
+
+            <div class="firstHalf">
+
+                <h1 class="text-big" id="web">
+
+                    Motivation Line
+
+                </h1>
+
+                 
+
+                <p class="text-small">
+
+                  आज की इस भाग दौड़ भरी जिंदगी में हर कोई व्यस्त और तन्हा है आज के इस दौर में लोग तन्हा और दुखी हैं विशेष रूप से आज का युवा वर्ग सबसे ज्यादा तन्हा, निराश और हताश हैं आज का युवा वर्ग अपने करियर को लेकर काफी चिंतित रहता है बहुत से लो अपने जीवन में बहुत कुछ बड़ा करना चाहते हैं लेकिन ऐसी बहुत सी परिस्थितियां आती है जो उन्हें अंदर तक तोड़ कर रख देती है मैं समझ में नहीं आता कि क्या करना चाहिए क्या नहीं ऐसे समय में हर किसी को नहीं थोड़े से मोटिवेशन की जरूरत होती है क्योंकि मोटिवेशन हमारे लिए एक ऊर्जा की तरह काम करते हैं ।
+
+                </p>
+ 
+ 
+
+            </div>
+
+        </div>
+
+    </section>
+ 
+
+    <section class="secondsection">
+
+        <div class="box-main">
+
+            <div class="secondHalf">
+
+                <h1 class="text-big" id="program">
+
+                   English Motivation Line
+
+                </h1>
+
+                <p class="text-small">
+
+                4. Learning is not a spectator sport. – D. Blocher
+
+If you want to master English, get involved and practise as much as possible.
+<br>
+
+5. There is no substitute for hard work. – Thomas Edison
+
+Learning any language is hard work so prepare well, put in the hours and you will achieve your goals.
+<br>
+
+6. Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles begins with a single step. – Lao Tzu
+
+Starting early with your learning will mean that you have time to deal with things in small steps. Even a large goal is more approachable if you break it down into smaller ones and just get started.
+<br>
+
+
+7. Today a reader, tomorrow a leader. – Margaret Fuller
+
+Reading is not just important for acquiring knowledge, it will help you build your vocabulary and range in English, too.
+
+                </p>
+ 
+ 
+
+            </div>
+
+        </div>
+
+    </section>
+ 
+
+    <section class="section">
+
+        <div class="paras">
+
+            <h1 class="sectionTag text-big">Love Short Story</h1>
+ 
+
+            <p class="sectionSubTag text-small">
+
+            जिया को लेकर राहुल के मन में क्या फीलिंग थी, ये भी पूरे कॉलेज में सिर्फ उसके एक दोस्त श्याम को ही मालूम थी। 
+
+श्याम अक्सर राहुल को ये कहा करता था कि वो जिया से अपने दिल की बात क्यों नहीं बोल देता।
+
+कॉलेज के आखिरी दिनों में श्याम ने राहुल से कहा कि ‘ राहुल अब कुछ दिनों में हमारा कॉलेज खत्म हो जाएगा और अगर तुमने अभी जिया को अपने दिल की बात नहीं बताई तो फिर कभी नहीं बोल पाओगे ‘। 
+
+श्याम की ये बातें सुननकर राहुल भी इस बारे में सोचने लगा।
+
+एक दिन राहुल बड़ी हिम्मत कर के जिया के पास पहुंचा और बोला – “ जिया, मैं तुमसे कुछ कहना चाहता हूं।“
+
+जिया- हां राहुल, बोलो
+राहुल(थोड़ा डरा हुआ सा धीमी आवाज में बोलता है)- जिया, मैं तुमसे बहुत प्यार करता हूं।
+जिया – क्या ?
+
+
+राहुल (थोड़ा कॉन्फिडेंस के साथ) – हां जिया, मैं तुमसे बहुत प्यार करता हूं, लेकिन काफी दिनों से मैं तुमसे ये बोलने की हिम्मत नहीं कर पा रहा था कि जब से मैंने तुम्हें देखा है और जाना है तब से तुम मेरी दुनिया बन गई हो।
+
+            </p>
+ 
+ 
+
+        </div>
+ 
+
+        <div class="thumbnail">
+
+            <img src="https://tse1.mm.bing.net/th?id=OIP.05_rpPTtMn3r4Sq02z8ikgHaEK&pid=Api&rs=1&c=1&qlt=95&w=222&h=124" alt="my image" wedth="300"height="200">
+
+        </div>
+
+    </section>
+ 
+
+ 
+
+    </footer>
+
+</body>
+ 
+
+</html>
+
+
+<style>
+
+    * {
+
+        margin: 0;
+
+        padding: 0;
+
+    }
+ 
+
+    .navbar {
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: center;
+
+        position: sticky;
+
+        top: 0;
+
+        cursor: pointer;
+
+    }
+ 
+
+    .background {
+
+        background: black;
+
+        background-blend-mode: darken;
+
+        background-size: cover;
+
+    }
+ 
+
+    .nav-list {
+
+        width: 70%;
+
+        display: flex;
+
+        align-items: center;
+
+    }
+ 
+
+    .logo {
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+
+    }
+ 
+
+    .logo img {
+
+        width: 180px;
+
+        border-radius: 50px;
+
+    }
+ 
+
+    .nav-list li {
+
+        list-style: none;
+
+        padding: 26px 30px;
+
+    }
+ 
+
+    .nav-list li a {
+
+        text-decoration: none;
+
+        color: white;
+
+    }
+ 
+
+    .nav-list li a:hover {
+
+        color: grey;
+
+    }
+ 
+
+    .rightnav {
+
+        width: 30%;
+
+        text-align: right;
+
+    }
+ 
+
+    #search {
+
+        padding: 5px;
+
+        font-size: 17px;
+
+        border: 2px solid grey;
+
+        border-radius: 9px;
+
+    }
+ 
+
+    .firstsection {
+
+        background-color: green;
+
+        height: 400px;
+
+    }
+ 
+
+    .secondsection {
+
+        background-color: blue;
+
+        height: 400px;
+
+    }
+ 
+
+    .box-main {
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+
+        color: black;
+
+        max-width: 80%;
+
+        margin: auto;
+
+        height: 80%;
+
+    }
+ 
+
+    .firsthalf {
+
+        width: 100%;
+
+        display: flex;
+
+        flex-direction: column;
+
+        justify-content: center;
+
+    }
+ 
+
+    .secondhalf {
+
+        width: 30%;
+
+    }
+ 
+
+    .secondhalf img {
+
+        width: 70%;
+
+        border: 4px solid white;
+
+        border-radius: 150px;
+
+        display: block;
+
+        margin: auto;
+
+    }
+ 
+
+    .text-big {
+
+        font-family: 'Piazzolla', serif;
+
+        font-weight: bold;
+
+        font-size: 35px;
+
+    }
+ 
+
+    .text-small {
+
+        font-size: 18px;
+
+    }
+ 
+
+    .btn {
+
+        padding: 8px 20px;
+
+        margin: 7px 0;
+
+        border: 2px solid white;
+
+        border-radius: 8px;
+
+        background: none;
+
+        color: white;
+
+        cursor: pointer;
+
+    }
+ 
+
+    .btn-sm {
+
+        padding: 6px 10px;
+
+        vertical-align: middle;
+
+    }
+ 
+
+    .section {
+
+        height: 400px;
+
+        display: flex;
+
+        align-items: center;
+
+        justify-content: center;
+
+        max-width: 90%;
+
+        margin: auto;
+
+    }
+ 
+
+    .section-Left {
+
+        flex-direction: row-reverse;
+
+    }
+ 
+
+    .paras {
+
+        padding: 0px 65px;
+
+    }
+ 
+
+    .thumbnail img {
+
+        width: 250px;
+
+        border: 2px solid black;
+
+        border-radius: 26px;
+
+        margin-top: 19px;
+
+    }
+ 
+
+    .center {
+
+        text-align: center;
+
+    }
+ 
+
+    .text-footer {
+
+        text-align: center;
+
+        padding: 30px 0;
+
+        font-family: 'Ubuntu', sans-serif;
+
+        display: flex;
+
+        justify-content: center;
+
+        color: white;
+
+    }
+</style>
+written by bikki kumar pandit❤️❤️❤️❤️......_
+
+<!DOCTYPE html>
+ 
+
+<html>
+ 
+
+<head>
+
+    <title>Simple web Development Template</title>
+ 
+
+    <style>
+
+        * {
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+ 
+
+        .navbar {
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            position: sticky;
+
+            top: 0;
+
+            cursor: pointer;
+
+        }
+ 
+
+        .background {
+
+            background: black;
+
+            background-blend-mode: darken;
+
+            background-size: cover;
+
+        }
+ 
+
+        .nav-list {
+
+            width: 70%;
+
+            display: flex;
+
+            align-items: center;
+
+        }
+ 
+
+        .logo {
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+        }
+ 
+
+        .logo img {
+
+            width: 180px;
+
+            border-radius: 50px;
+
+        }
+ 
+
+        .nav-list li {
+
+            list-style: none;
+
+            padding: 26px 30px;
+
+        }
+ 
+
+        .nav-list li a {
+
+            text-decoration: none;
+
+            color: white;
+
+        }
+ 
+
+        .nav-list li a:hover {
+
+            color: grey;
+
+        }
+ 
+
+        .rightnav {
+
+            width: 30%;
+
+            text-align: right;
+
+        }
+ 
+
+        #search {
+
+            padding: 5px;
+
+            font-size: 17px;
+
+            border: 2px solid grey;
+
+            border-radius: 9px;
+
+        }
+ 
+
+        .firstsection {
+
+            background-color: green;
+
+            height: 400px;
+
+        }
+ 
+
+        .secondsection {
+
+            background-color: blue;
+
+            height: 400px;
+
+        }
+ 
+
+        .box-main {
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            color: black;
+
+            max-width: 80%;
+
+            margin: auto;
+
+            height: 80%;
+
+        }
+ 
+
+        .firsthalf {
+
+            width: 100%;
+
+            display: flex;
+
+            flex-direction: column;
+
+            justify-content: center;
+
+        }
+ 
+
+        .secondhalf {
+
+            width: 30%;
+
+        }
+ 
+
+        .secondhalf img {
+
+            width: 70%;
+
+            border: 4px solid white;
+
+            border-radius: 150px;
+
+            display: block;
+
+            margin: auto;
+
+        }
+ 
+
+        .text-big {
+
+            font-family: 'Piazzolla', serif;
+
+            font-weight: bold;
+
+            font-size: 35px;
+
+        }
+ 
+
+        .text-small {
+
+            font-size: 18px;
+
+        }
+ 
+
+        .btn {
+
+            padding: 8px 20px;
+
+            margin: 7px 0;
+
+            border: 2px solid white;
+
+            border-radius: 8px;
+
+            background: none;
+
+            color: white;
+
+            cursor: pointer;
+
+        }
+ 
+
+        .btn-sm {
+
+            padding: 6px 10px;
+
+            vertical-align: middle;
+
+        }
+ 
+
+        .section {
+
+            height: 400px;
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: center;
+
+            max-width: 90%;
+
+            margin: auto;
+
+        }
+ 
+
+        .section-Left {
+
+            flex-direction: row-reverse;
+
+        }
+ 
+
+        .paras {
+
+            padding: 0px 65px;
+
+        }
+ 
+
+        .thumbnail img {
+
+            width: 250px;
+
+            border: 2px solid black;
+
+            border-radius: 26px;
+
+            margin-top: 19px;
+
+        }
+ 
+
+        .center {
+
+            text-align: center;
+
+        }
+ 
+
+        .text-footer {
+
+            text-align: center;
+
+            padding: 30px 0;
+
+            font-family: 'Ubuntu', sans-serif;
+
+            display: flex;
+
+            justify-content: center;
+
+            color: white;
+
+        }
+
+    </style>
+
+</head>
+ 
+
+<body>
+
+    <nav class="navbar background">
+
+        <ul class="nav-list">
+
+            <div class="logo">
+
+                <img src= "logo.png">
+
+            </div>
+
+            <li><a href="#web">Motivation</a></li>
+
+            <li><a href="#program">Love Story</a></li>
+            <li><a href="#course">Funny Sh</aayari></li>
+
+
+        </ul>
+ 
+
+        <div class="rightNav">
+
+            <input type="text" name="search" id="search">
+
+            <button class="btn btn-sm">Search</button>
+
+        </div>
+
+    </nav>
+ 
+
+    <section class="firstsection">
+
+        <div class="box-main">
+
+            <div class="firstHalf">
+
+                <h1 class="text-big" id="Motivational"></h1>
+
+                <p class="text-small">
+<hr>
+
+             Motivational Quotes in Hindi❤️
+<hr>
+“जो आप नहीं कर सकते, उसे आप जो कर सकते हैं उसमें हस्तक्षेप न करने दें ।” – जॉन वुडन   
+आप अपने जीवन में बहुत से ऐसे लोगों से मिलेंगे जो आपको बताएंगे कि आप काफी अच्छे नहीं हैं। जबकि आप कुछ चीजों के विशेषज्ञ नहीं हो सकते हैं, आपके पास अपनी ताकत और क्षमताएं होंगी और साथ ही ऐसे क्षेत्र भी होंगे जहां आप चमक सकते हैं। जबकि कई शैक्षिक उद्धरण होंगे जो आपको कभी हार न मानने के लिए कहेंगे, सबसे महत्वपूर्ण बात जो आपको ध्यान में रखने की आवश्यकता है वह है अपनी ताकत पर ध्यान केंद्रित करना और अपने लक्ष्यों को मील के पत्थर में बदलने के लिए अपने स्वयं के अद्वितीय कौशल और क्षमताओं का उपयोग करना। दूसरों को अपने दिमाग में न आने दें और लक्ष्य पर नजर रखें और आप वहां पहुंच जाएंगे। 
+<br>
+“जो कोई भी अपने जीवन में एक बच्चे की मदद करने के लिए कुछ भी करता है वह मेरे लिए एक नायक है ।” – फ्रेड रोजर्स 
+शिक्षण सबसे महान और निस्वार्थ व्यवसायों में से एक है। शिक्षक अपने छात्रों को बेहतर इंसान और महान शिक्षार्थी बनाने के लिए कई रचनात्मक और नवीन विधियों के माध्यम से सर्वोत्तम व्यावहारिक और नैतिक ज्ञान प्रदान करने का प्रयास करते हैं। जबकि शैक्षिक उद्धरण आपको महान व्यक्तित्वों से कुछ बुद्धिमान सबक प्रदान करते हैं , हर किसी के जीवन में एक नायक या कई सलाहकार होते हैं जिन्हें वे देखते हैं। ये शिक्षक केवल वे नहीं हैं जिनसे आप अपनी शैक्षणिक यात्रा में मिलते हैं, बल्कि जीवन भर, चाहे वह आपके बुजुर्ग हों या वे जिन्होंने आपको जीवन में महत्वपूर्ण ज्ञान प्रदान किया। 
+<br>
+“जो हम खुशी से सीखते हैं उसे हम कभी नहीं भूलते।” — अल्फ्रेड मर्सिएर
+इस कथन के माध्यम से, अल्फ्रेड मर्सिएर का उद्देश्य यह बताना है कि हमें सीखने की प्रक्रिया को चार दीवारों तक सीमित नहीं करना चाहिए और इसे और अधिक मनोरंजक बनाना चाहिए। यह निश्चित रूप से एकतरफा प्रक्रिया नहीं है, छात्रों और शिक्षकों दोनों को एक दूसरे से बातचीत करने और सीखने के लिए मिलना चाहिए। इंटरैक्टिव कक्षाओं के साथ, सीखने की प्रक्रिया को मज़ेदार बनाया जा सकता है और इस तरह छात्रों को पारंपरिक रूप से कठोर सीखने के माहौल की तुलना में बहुत अधिक ज्ञान बनाए रखने को मिलेगा। किसी चीज़ को मज़ेदार तरीके से सीखना उसे रटने के बजाय उसे बनाए रखने का एक बेहतर तरीका है।
+<br>
+मंज़िल उन्हीं को मिलती है , जिनके सपनों में जान होती है!!
+पंख से कुछ नहीं होता , हौसलों से उड़ान होती है!
+<hr>
+हौसले बुलंद कर रास्तों पर चल दे.. तुझे तेरा मुकाम मिल जाएगा ,
+बढ़कर अकेला तू पहल कर देखकर तुझको…. काफिला खुद बन जाएगा
+
+ मत सोच इतना … जिंदगी के बारे में , जिसने जिंदगी दी है… उसने भी तो कुछ सोचा होगा!
+
+जो हो गया उसे सोचा नहीं करते जब मिल गया उसे खोया नहीं करते हासिल उन्हें होती है सफलता…. जो वक़्त और हालात पर रोया नहीं करते!!
+<hr>
+सफ़र में मुश्किलें आए ,तो हिम्मत और बढ़ती है …अगर कोई रास्ता रोके ,
+तो जुर्रत और बढ़ती है…. अगर बिकने पर आ जाओ, तो घट जाता है दम अक्सर …
+ना बिकने का इरादा हो तो ,कीमत और बढ़ती है…
+<hr>
+नजर को बदलो तो नजारे बदल जाते हैं , सोच को बदलो तो सितारे बदल जाते हैं !!
+कश्तियां बदलने की जरुरत नहीं दिशाओं को बदलो तो किनारे खुद ब खुद बदल जाते हैं!
+<hr>
+जिस-जिस पर यह जग हंसा है ,
+उसी ने इतिहास रचा है।
+
+निगाहों में मजे थी,  गिरे और गिर कर संभलते रहे,
+हवाओं ने खूब कोशिश की, मगर चिराग आंधियों में जलते रहे।
+
+सफलता एक घटिया शिक्षक है इन लोगों में यह सोच विकसित कर देता है कि वह सफल नहीं हो सकते – बिल गेट्स
+
+जो सही करने की हिम्मत उसी में आती है जो गलती करने से न
+
+
+                </p>
+ 
+ 
+
+            </div>
+
+        </div>
+
+    </section>
+ 
+
+    <section class="secondsection">
+
+        <div class="box-main">
+
+            <div class="firstHalf">
+
+                <h1 class="text-big" id="program">
+                </p>
+ 
+ 
+           <img src="https://tse1.mm.bing.net/th?id=OIP.iqgt7lgWbV5Y8wMMIbzW9AHaEo&pid=Api&rs=1&c=1&qlt=95&w=161&h=101" alt="image" wedth="350" height="300">
+
+            </div>
+
+        </div>
+
+    </section>
+ 
+
+    <section class="section">
+
+        <div class="paras">
+
+            <h1 class="sectionTag text-big">Funny Romantic</h1>
+ 
+
+            <p class="sectionSubTag text-small">
+
+
+            </p>
+ 
+ 
+
+        </div>
+ 
+
+        <div class="thumbnail">
+<hr>
+
+            <img src="https://lh3.googleusercontent.com/nNj64T3ACahicG_RaYt5LqDVFfCxNxKSQKLOSvVxembN6MH1ga5lGutRQGe7wmgCdhEXgCoGjU-axvWpvYcNmme0K6YKMYL8BD-Y9gVG-lpgXakxR1sYLZfMal4QspmH_XQ80bcuEMsoss3H67bLF_1QwRAwi5oRFhqolWgrp7xtJgk07o3FWJs7x9yMRZmnf4rKF_Uy9uW7LWtGYEmAmCNIwTEocFgEMOCItYH-Ua9j6ldQKz5PPkbkfN8EIX4YZfxHckK9aL0hj_CFT5DOH8YsVj7emwOHRBjOnA_tnGlwk2QEBjCsao4lYATq1vXWB0OyHbMO3EShhBRz49knv_LFSWc8_XBNc6kY7OfSpSkkPoX33YFjwUDsxyHGn1dfi__ulnEPEDAgHpXCi-C_6PBbIsTCuTCbsUWSQwAWs8ahqTBZlF9Ab1kq6MsKE3h0Wn0PgjNliBW2LTHJ9HQh5XuQAoCjZa-a0N0X0yMmsIK5V0Z20qkaUh0qhEgxe2IcSQpSQ4ZSktsIT9KTn2tpzIh23yN4Y-yKLnsw8IaZssRDJz2Sj4g7z0_51hkyvssYTiwlE0tLBEASg6KHO_Q8VaGU-p4WvfMby6gXgOt6AsVeJnYdkavnFFSTcmkFN7SwAYaHeRfJS7hLA5tLqoSroNopYNjf-Wf3qPvqek2vYQ3Z4_i83AGg5AthKlMYYQ6XpvuCX_eH_qqPrhtsxnG6SVxdJZP2M7i_GnIIXKaxpFEXGkac9zxIiGElrhMMkbD4LWLL9Sgly7NjjjJsKMjI4ySqMSQhkZgUSnrXfIyaKMEFvuRYFWiMELlb1OZtcs4NNhNDGVmeT8rzqALdsN3WNaMPlzqOX_ahktFG0zaoHmXizNj8kc1NNY1Nmr--x1SkutNyrWCgcS_F9Dyd1zTnKq-670orj8AGmrf28XAOI6J-=w420-h933-no?authuser=0" alt="my image" width="550" height="300">
+
+        </div>
+
+    </section>
+ 
+
+    <footer class="background">
+
+        <p class="text-footer">
+
+           👉Written by Bikki Kumar Pandit❤️❤️❤️❤️....
+
+        </p>
+ 
+ 
+
+    </footer>
+
+</body>
+</html>
